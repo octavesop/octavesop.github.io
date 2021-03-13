@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "mmmmmm"
+title                    : "OCTAVESOP's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "mmm"
+name                     : "Jung Mina"
 description              : "An amazing website."
 url                      : "https://octavesop.github.io"
 baseurl                  : "octavesop/octavesop.github.io"
